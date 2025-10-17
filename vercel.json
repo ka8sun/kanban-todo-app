@@ -3,7 +3,7 @@
   "devCommand": "npm run dev",
   "installCommand": "npm ci",
   "framework": "nextjs",
-  "regions": ["nrt1"],
+  "regions": ["hnd1"],
   "env": {
     "NEXT_PUBLIC_SUPABASE_URL": "@next-public-supabase-url",
     "NEXT_PUBLIC_SUPABASE_ANON_KEY": "@next-public-supabase-anon-key"
